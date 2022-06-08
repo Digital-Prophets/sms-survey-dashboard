@@ -1,0 +1,57 @@
+psycopg2-binary==2.8.6
+Django==2.2.16
+# Django==3.1.13
+django-role-permissions==2.2.0
+django-utils-six==2.0
+markdown==2.6.11
+celery==4.4.*
+redis==4.1.*
+bpython==0.22.* 
+django-braces==1.15.0
+
+# Raven pinned to 3.3.7 - see
+# https://github.com/getsentry/raven-python/issues/337
+raven==5.8.1
+# django-sentry==1.13.5
+pytz==2021.3
+django-tinymce4-lite==1.8.0
+django-ckeditor==6.0.0
+django-crispy-forms==1.9.2
+easy-thumbnails
+django-filter==21.1
+Pillow==8.4.0
+requests==2.25.1
+django-filer==2.1.1
+django-redis==5.0.0  # https://github.com/jazzband/django-redi
+django-select2==7.9.0
+django-imagekit==4.1.0
+django-grappelli==2.13.4
+django-map-widgets==0.3.2
+django-import-export==2.7.1
+django-report-builder==6.4.2
+django-rest-registration==0.7.0
+django-infinite-scroll-pagination==1.2.0
+django-widget-tweaks==1.4.11
+django-reversion==4.0.2
+# support special characters
+
+# Django Easy Audit
+# https://github.com/soynatan/django-easy-audit
+git+https://github.com/soynatan/django-easy-audit.git
+
+djangorestframework==3.12
+drf-yasg2==1.19.4
+pygbif==0.2.0
+
+djangocms-admin-style==2.0.2
+django-money==2.1 # https://django-money.readthedocs.io/en/stable/
+django-map-widgets==0.3.2 # https://django-map-widgets.readthedocs.io/en/latest/installation/index.html
+django-celery-results==1.2.* 
+
+# Django beneficiary
+git+https://github.com/Digital-Prophets/dj-beneficiary.git
+
+folium==0.12.1.post1
+altair==4.1.0
+pandas==1.1.5
+exif==1.2.2
