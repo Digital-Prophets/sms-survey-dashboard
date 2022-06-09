@@ -1,7 +1,6 @@
 # SMS SURVEY DASHBOARD
 
-A service for monitoring ward beneficiary projects as well as reporting.
-View a running instance at [http://81.28.6.181:8009](http://81.28.6.181:8009/)
+A service for monitoring sms survey as well as reporting.
 
 Note that sms-survey-dashboard is under development and not yet feature complete.
 
@@ -87,3 +86,4 @@ Thank you to the individual contributors who have helped to improve the sms surv
 * Chriford Siame: chriford@digiprophets.com
 * Prince Musole: prince@digiprophets.com
 * Joshua Chipile: joshua@digiprophets.com
+* David Utibe-Abasi Okuku: david@digiprophets.com
